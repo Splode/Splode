@@ -7,4 +7,4 @@
 - 💬 Ask me about whatever.
 - 📫 How to reach me: flyweight@pm.me
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- 📝 I sometimes write about what I'm learning at [HackWild](https://hackwild.com) 
